@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-top{
+    height: 50px;
+
+}
+
+video {
+    width: 100%;
+    height: auto;
+  }
+
+
+  .mylinks{
+      display: inline-flex;
+  }
+
+
+.myfooter{
+font-size: 18px !important;
+}
+  
+
+
+
+
+.bg {
+  /* The image used */
+  background-image: url("/assets/iota-banner-.png");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/* a {
+  color: #4f4f4f !important;
+  font: bold 1em/1.5 'Fjalla One', sans-serif!important;
+  text-decoration: none !important;
+  text-transform: uppercase !important;
+  -webkit-transition: .4s !important;
+}
+a:hover {
+  color: hotPink !important;
+}
+@media (-webkit-min-device-pixel-ratio:0) {
+  a {
+    background-color: skyBlue;
+    background-image: -webkit-linear-gradient(left, hotPink 0%, orange 50%, transparent 50%) !important;
+    background-position: 100% 0 !important;
+    background-size: 200% 200% !important;
+    color: transparent;
+    -webkit-transition: .1s .2s !important;
+    -webkit-background-clip: text !important;
+  }
+  a:hover {
+    background-position: 0 0 !important;
+    color: transparent!important;
+    transition: .4s 0!important;
+  }
+  
+} */
